@@ -1,5 +1,5 @@
 function initMap() {
-	var ucsd_ltlng = {lat:32.880, lng:-117.236};
+	var ucsd_ltlng = {lat:32.878866, lng:-117.236047};
 
 	//create map object
 	var map = new google.maps.Map(document.getElementById('map'), {
